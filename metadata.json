@@ -1,0 +1,6 @@
+{
+  "name": "Block Explorer",
+  "description": "A geospatial editorial exploration app powered by Google Maps Platform Geocoding V4, interactive maps, and Gemini local insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
